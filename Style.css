@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url(‘/fonts/Roboto-Regular.woff2’) format(‘woff2’),
+		url(‘/fonts/Robot-Regular.ttf’) format(‘truetype’)
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+li {
+    float: left;
+}
